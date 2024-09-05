@@ -1,4 +1,4 @@
-Os arquivos a cima foram feitos em C, utilizando do VScode, apenas o arquivo QstionThree.java que foi feito em Java. Conforme orientações abaixo:
+Os arquivos a cima foram feitos em C, utilizando do VScode, apenas o arquivo QstionThree.zip que foi feito em Java. Conforme orientações abaixo:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
